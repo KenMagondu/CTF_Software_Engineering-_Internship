@@ -9,5 +9,10 @@
 
 #MY DATABASE CONNECTION IS AT /config/connect.php
 
-# this is  the landing page (http://localhost/event_scoreboard/scoreboard/index.php) file is found at event_scoreboard/scoreboard/index.php
+
+
+
 #this is the admin page (http://localhost/event_scoreboard/admin/index.php) file is found at event_scoreboard/admin/index.php
+#this is the landing page  (http://localhost/event_scoreboard/scoreboard/index.php) file is found at event_scoreboard/scoreboard/index.php
+
+
